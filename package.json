@@ -1,13 +1,13 @@
 {
   "name": "start-webpack",
   "version": "1.0.0",
-  "description": "",
+  "description": "webpack+es2015+vue",
   "main": "index.js",
   "scripts": {
     "start": "export NODE_ENV=development && babel-node task/run start --presets es2015",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "YyIsCoding",
   "license": "ISC",
   "devDependencies": {
     "babel": "^6.23.0",
